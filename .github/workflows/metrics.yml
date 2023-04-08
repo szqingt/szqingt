@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Metrics
         uses: lowlighter/metrics@latest
@@ -20,5 +22,4 @@ jobs:
           user: szqingt
           template: classic
           config_timezone: Asia/Shanghai
-          committer_message: "chore: update metrics image"
           base: header, activity, metadata
