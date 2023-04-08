@@ -17,6 +17,8 @@ jobs:
 
           # Options
           filename: metrics.svg
-          user: antfu
-          base: header, activity, repositories, metadata
+          user: szqingt
+          template: classic
           config_timezone: Asia/Shanghai
+          committer_message: "chore: update metrics image"
+          base: header, activity, metadata
