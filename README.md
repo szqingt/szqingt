@@ -17,9 +17,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=538CCE&width=220&lines=Hello+World~">
-    
 </div>
-
 
 <h3 align="center">Contact</h3>
 <p align="center">
@@ -28,6 +26,9 @@
     </samp>
 </p>
 
+<h3 align="center">Statistics</h3>
+<p align="center">
+    <img src="./metrics.svg" />
+</p>
 
-<img align="left" src="./base_metrics.svg" />
 
